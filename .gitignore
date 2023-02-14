@@ -1,0 +1,8 @@
+# Client ignore
+client/node_modules/*
+client/coverage/*
+client/build/*
+
+# server & worker ignore
+server/node_modules/*
+worker/node_modules/*
